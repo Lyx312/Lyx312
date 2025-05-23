@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gregorius Kendick (Lyx312)
 
 🎓 Computer Science Student at ISTTS  
-💻 Passionate about Web Development, Graphics Programming, Full-Stack Engineering, Computer Vision, and AI Development
+💻 Passionate about Web Development, Graphics Programming, Full-Stack Engineering, Computer Vision, and AI Development.  
 🌱 Currently exploring Deep Learning  
 📍 Based in Surabaya, Indonesia
 
