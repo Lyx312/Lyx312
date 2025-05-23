@@ -29,12 +29,6 @@ A full-stack web application project, possibly developed using TypeScript. This 
 
 ---
 
-## 📈 GitHub Stats
-
-![Lyx312's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyx312&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 Feel free to reach out if you'd like to collaborate or discuss tech!
